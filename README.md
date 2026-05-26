@@ -1,5 +1,3 @@
-# Blog CMS
-
 <div align="center">
 
 ![Angular](https://img.shields.io/badge/Angular-17.2-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -14,6 +12,7 @@ Content managed in the cloud, delivered fast via SSR — no backend code require
 </div>
 
 ---
+# Blog CMS
 
 ## Table of Contents
 
